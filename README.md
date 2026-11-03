@@ -75,7 +75,11 @@ Tutte le statistiche (mediane, matrici di correlazione, soglie Z-score, cluster 
 ### 3. Outlier Detection Non Distruttiva (Shadow Features)
 In ambito medico un paziente con valori estremi non è un "errore da eliminare", ma un caso ad alta complessità da analizzare con attenzione:
 - **MAD Univariato (Robust Z-Score)**:
-  $$Z_{\text{robust}} = \frac{0.6745 \cdot (X - \text{Mediana})}{\text{MAD}}$$
+
+$$
+Z_{\text{robust}} = \frac{0.6745 \cdot (X - \text{Mediana})}{\text{MAD}}
+$$
+
   Soglia train $Z > 3.5 \implies$ attivazione della flag binaria `has_univariate_outlier = 1` (nessun record eliminato).
 - **DBSCAN Spaziale Multivariato**:
   Eseguito unicamente sulle 6 misurazioni simultanee di Triage ($\text{eps}=1.5, \text{min\_samples}=10$). Intercetta combinazioni sindromiche atipiche sincrone (es. tachicardia concomitante a ipotermia e ipertensione severa) $\implies$ flag `dbscan_low_density = 1`.
@@ -143,7 +147,11 @@ Per risolvere la barriera predittiva tra la Classe 1 e la Classe 2 senza ricorre
 ## 📊 Metriche Cliniche & Risultati Sperimentali
 
 In medicina d'urgenza la metrica standard F1 (media armonica bilanciata tra precisione e richiamo) è insufficiente:
-$$\text{Macro-}F_\beta = (1 + \beta^2) \frac{\text{Precision} \cdot \text{Recall}}{(\beta^2 \cdot \text{Precision}) + \text{Recall}}$$
+
+$$
+\text{Macro-}F_\beta = (1 + \beta^2) \frac{\text{Precision} \cdot \text{Recall}}{(\beta^2 \cdot \text{Precision}) + \text{Recall}}
+$$
+
 Nel nostro framework è stato adottato **$\beta = 2$ (Macro-F2)**:
 - Un **Falso Positivo** comporta accertamenti diagnostici addizionali (costo lieve).
 - Un **Falso Negativo** comporta la dimissione prematura o il mancato ricovero di un paziente acuto critico (**rischio di vita**). Assegnare **peso doppio al Recall** riflette l'imperativo etico e clinico del Pronto Soccorso.
