@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - SVM_Cascata ===
+
+Accuracy            : 0.8059
+F2-Score (macro)  : 0.7436  <- metrica primaria
+F1-Score  (macro)   : 0.7437
+Precision (macro)   : 0.7459
+Recall    (macro)   : 0.7441
+F1-Score  (weighted): 0.8084
+Precision (weighted): 0.8125
+Recall    (weighted): 0.8059
+
+--- F2-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9281
+Classe 1: 0.5997
+Classe 2: 0.7030
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       354
+           1       0.54      0.62      0.58       130
+           2       0.76      0.69      0.72       155
+
+    accuracy                           0.81       639
+   macro avg       0.75      0.74      0.74       639
+weighted avg       0.81      0.81      0.81       639

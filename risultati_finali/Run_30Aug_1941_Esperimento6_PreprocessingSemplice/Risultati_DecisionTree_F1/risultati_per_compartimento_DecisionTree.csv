@@ -1,0 +1,2 @@
+Modello,Accuracy,F_Target_macro,F1_macro,Precision_macro,Recall_macro,F1_weighted,Precision_weighted,Recall_weighted
+DecisionTree,0.7421875,0.6674576978647262,0.6674576978647262,0.6766049260859518,0.6622555410691003,0.7405189953847727,0.7419575864993997,0.7421875

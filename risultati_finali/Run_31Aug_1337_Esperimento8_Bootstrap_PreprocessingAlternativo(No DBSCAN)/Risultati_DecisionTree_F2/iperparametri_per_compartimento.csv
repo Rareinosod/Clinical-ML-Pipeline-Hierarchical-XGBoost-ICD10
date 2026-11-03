@@ -1,0 +1,2 @@
+Compartimento,max_depth,min_samples_split,min_samples_leaf,criterion,F2-Score (macro)_CV_train
+Holdout,,3,1,entropy,0.83211431882174

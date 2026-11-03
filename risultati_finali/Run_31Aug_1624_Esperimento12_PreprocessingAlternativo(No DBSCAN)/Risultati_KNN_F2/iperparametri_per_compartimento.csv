@@ -1,0 +1,2 @@
+Compartimento,n_neighbors,weights,metric,F2-Score (macro)_CV_train
+Holdout,3,distance,euclidean,0.6764814124372117

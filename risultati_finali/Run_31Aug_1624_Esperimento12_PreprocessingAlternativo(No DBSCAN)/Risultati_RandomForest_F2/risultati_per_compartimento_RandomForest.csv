@@ -1,0 +1,2 @@
+Modello,Accuracy,F_Target_macro,F1_macro,Precision_macro,Recall_macro,F1_weighted,Precision_weighted,Recall_weighted
+RandomForest,0.803125,0.7273164563473801,0.7312061907941532,0.7438673848817502,0.7259524844270607,0.794502838557213,0.7911573407780532,0.803125

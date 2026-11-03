@@ -1,0 +1,6 @@
+Compartimento,max_depth,min_samples_split,min_samples_leaf,criterion,F1-Score (macro)_CV_train
+Fold_1,10,16,1,gini,0.6881693278443061
+Fold_2,5,18,8,gini,0.6868440172037639
+Fold_3,5,15,8,gini,0.6889175962717308
+Fold_4,10,14,1,gini,0.6956800575133771
+Fold_5,10,18,2,gini,0.7026859592448749

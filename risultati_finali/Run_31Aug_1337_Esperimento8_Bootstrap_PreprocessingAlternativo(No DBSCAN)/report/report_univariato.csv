@@ -1,0 +1,161 @@
+feature,feature_present,reason_skipped,n_observations,n_missing,median_value,mad_value,n_outliers,outlier_rate_pct
+age,True,,3198,0,34.0,11.0,0,0.0
+los_hours,True,,3198,0,20.808333333333334,15.266666666666666,336,10.506566604127581
+mortality,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+admission_type_DIRECT EMER.,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+admission_type_DIRECT OBSERVATION,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+admission_type_ELECTIVE,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+admission_type_EU OBSERVATION,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+admission_type_EW EMER.,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+admission_type_OBSERVATION ADMIT,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+admission_type_SURGICAL SAME DAY ADMISSION,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+admission_type_URGENT,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_ASIAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_ASIAN - ASIAN INDIAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_ASIAN - CHINESE,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_ASIAN - KOREAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_ASIAN - SOUTH EAST ASIAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_BLACK/AFRICAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_BLACK/AFRICAN AMERICAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_BLACK/CAPE VERDEAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_BLACK/CARIBBEAN ISLAND,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - CENTRAL AMERICAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - COLUMBIAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - CUBAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - DOMINICAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - GUATEMALAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - HONDURAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - MEXICAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - PUERTO RICAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_HISPANIC/LATINO - SALVADORAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_OTHER,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_PATIENT DECLINED TO ANSWER,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_PORTUGUESE,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_SOUTH AMERICAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_UNABLE TO OBTAIN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_WHITE,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+race_WHITE - BRAZILIAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_WHITE - EASTERN EUROPEAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_WHITE - OTHER EUROPEAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+race_WHITE - RUSSIAN,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+gender_M,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+temperature,True,,3115,83,98.0,0.5999999999999943,59,1.8940609951845908
+heartrate,True,,3102,96,88.0,12.0,13,0.4190844616376531
+resprate,True,,3098,100,18.0,2.0,2,0.06455777921239508
+o2sat,True,,3031,167,99.0,1.0,25,0.8248102936324645
+sbp,True,,3111,87,128.0,11.0,10,0.32144005143040827
+dbp,True,,3090,108,79.0,9.0,38,1.2297734627831716
+pain,True,MAD non calcolabile o uguale a zero,2913,285,0.0,0.0,0,
+acuity,True,MAD non calcolabile o uguale a zero,3120,78,2.0,0.0,0,
+temperature_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+heartrate_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+resprate_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+o2sat_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+sbp_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+dbp_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+pain_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+n_invalid_values,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+has_invalid_value,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Hemoglobin_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Hematocrit_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+White Blood Cells_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Platelet Count_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Red Blood Cells_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Mean Corpuscular Volume_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Bicarbonate_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Calcium_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Magnesium_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Phosphate_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+C-Reactive Protein_invalid,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+crp_elevated,True,MAD non calcolabile o uguale a zero,3198,0,0.0,0.0,0,
+Hemoglobin_mean,True,,3035,163,13.2,1.0999999999999996,2,0.06589785831960461
+Hemoglobin_median,True,,3035,163,13.2,1.0999999999999996,4,0.13179571663920922
+Hemoglobin_min,True,,3035,163,13.1,1.1999999999999993,4,0.13179571663920922
+Hemoglobin_max,True,,3035,163,13.3,1.0,2,0.06589785831960461
+Hemoglobin_std,True,MAD non calcolabile o uguale a zero,3035,163,0.0,0.0,0,
+Hemoglobin_first,True,,3035,163,13.2,1.0999999999999996,1,0.032948929159802305
+Hemoglobin_last,True,,3035,163,13.1,1.0999999999999996,4,0.13179571663920922
+Hemoglobin_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Hemoglobin_trend,True,MAD non calcolabile o uguale a zero,3035,163,0.0,0.0,0,
+Hematocrit_mean,True,,3049,149,39.6,2.8999999999999986,5,0.1639881928501148
+Hematocrit_median,True,,3049,149,39.6,2.8999999999999986,7,0.22958346999016072
+Hematocrit_min,True,,3049,149,39.3,3.1000000000000014,12,0.3935716628402755
+Hematocrit_max,True,,3049,149,40.0,2.700000000000003,4,0.13119055428009183
+Hematocrit_std,True,MAD non calcolabile o uguale a zero,3049,149,0.0,0.0,0,
+Hematocrit_first,True,,3049,149,39.8,2.799999999999997,8,0.26238110856018365
+Hematocrit_last,True,,3049,149,39.6,2.8999999999999986,11,0.36077402427025257
+Hematocrit_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Hematocrit_trend,True,MAD non calcolabile o uguale a zero,3049,149,0.0,0.0,0,
+White Blood Cells_mean,True,,3050,148,8.2,1.8333333333333321,38,1.2459016393442623
+White Blood Cells_median,True,,3050,148,8.1,1.8000000000000007,49,1.6065573770491801
+White Blood Cells_min,True,,3050,148,7.7,1.9000000000000004,34,1.1147540983606559
+White Blood Cells_max,True,,3050,148,8.6,2.0999999999999996,49,1.6065573770491801
+White Blood Cells_std,True,MAD non calcolabile o uguale a zero,3050,148,0.0,0.0,0,
+White Blood Cells_first,True,,3050,148,8.2,1.8999999999999995,54,1.7704918032786885
+White Blood Cells_last,True,,3050,148,7.9,2.0,34,1.1147540983606559
+White Blood Cells_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+White Blood Cells_trend,True,MAD non calcolabile o uguale a zero,3050,148,0.0,0.0,0,
+Platelet Count_mean,True,,3049,149,243.0,40.0,24,0.787143325680551
+Platelet Count_median,True,,3049,149,242.0,41.0,22,0.7215480485405051
+Platelet Count_min,True,,3049,149,240.0,42.0,16,0.5247622171203673
+Platelet Count_max,True,,3049,149,247.0,42.0,41,1.3447031813709411
+Platelet Count_std,True,MAD non calcolabile o uguale a zero,3049,149,0.0,0.0,0,
+Platelet Count_first,True,,3049,149,243.0,41.0,33,1.0823220728107577
+Platelet Count_last,True,,3049,149,244.0,42.0,26,0.8527386028205969
+Platelet Count_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Platelet Count_trend,True,MAD non calcolabile o uguale a zero,3049,149,0.0,0.0,0,
+Red Blood Cells_mean,True,,3049,149,4.42,0.3650000000000002,1,0.032797638570022956
+Red Blood Cells_median,True,,3049,149,4.42,0.3700000000000001,1,0.032797638570022956
+Red Blood Cells_min,True,,3049,149,4.39,0.3899999999999997,0,0.0
+Red Blood Cells_max,True,,3049,149,4.5,0.3700000000000001,1,0.032797638570022956
+Red Blood Cells_std,True,MAD non calcolabile o uguale a zero,3049,149,0.0,0.0,0,
+Red Blood Cells_first,True,,3049,149,4.46,0.3700000000000001,3,0.09839291571006888
+Red Blood Cells_last,True,,3049,149,4.41,0.3700000000000001,2,0.06559527714004591
+Red Blood Cells_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Red Blood Cells_trend,True,MAD non calcolabile o uguale a zero,3049,149,0.0,0.0,0,
+Mean Corpuscular Volume_mean,True,,3037,161,90.0,3.0,44,1.4487981560750742
+Mean Corpuscular Volume_median,True,,3037,161,90.0,3.0,43,1.415870925255186
+Mean Corpuscular Volume_min,True,,3037,161,89.0,3.0,34,1.1195258478761936
+Mean Corpuscular Volume_max,True,,3037,161,90.0,3.0,47,1.5475798485347383
+Mean Corpuscular Volume_std,True,MAD non calcolabile o uguale a zero,3037,161,0.0,0.0,0,
+Mean Corpuscular Volume_first,True,,3037,161,90.0,3.0,44,1.4487981560750742
+Mean Corpuscular Volume_last,True,,3037,161,90.0,3.0,44,1.4487981560750742
+Mean Corpuscular Volume_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Mean Corpuscular Volume_trend,True,MAD non calcolabile o uguale a zero,3037,161,0.0,0.0,0,
+Bicarbonate_mean,True,,3047,151,24.5,1.5,11,0.36101083032490977
+Bicarbonate_median,True,,3047,151,24.5,1.5,13,0.426649163111257
+Bicarbonate_min,True,,3047,151,24.0,2.0,9,0.29537249753856254
+Bicarbonate_max,True,,3047,151,25.0,2.0,1,0.03281916639317361
+Bicarbonate_std,True,MAD non calcolabile o uguale a zero,3047,151,0.0,0.0,0,
+Bicarbonate_first,True,,3047,151,24.0,2.0,3,0.09845749917952085
+Bicarbonate_last,True,,3047,151,25.0,2.0,3,0.09845749917952085
+Bicarbonate_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Bicarbonate_trend,True,MAD non calcolabile o uguale a zero,3047,151,0.0,0.0,0,
+Calcium_mean,True,,3001,197,9.2,0.40000000000000036,1,0.03332222592469177
+Calcium_median,True,,3001,197,9.2,0.40000000000000036,1,0.03332222592469177
+Calcium_min,True,,3001,197,9.1,0.5,0,0.0
+Calcium_max,True,,3001,197,9.3,0.40000000000000036,2,0.06664445184938354
+Calcium_std,True,MAD non calcolabile o uguale a zero,3001,197,0.0,0.0,0,
+Calcium_first,True,,3001,197,9.3,0.5,0,0.0
+Calcium_last,True,,3001,197,9.3,0.40000000000000036,1,0.03332222592469177
+Calcium_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Calcium_trend,True,MAD non calcolabile o uguale a zero,3001,197,0.0,0.0,0,
+Magnesium_mean,True,,3013,185,2.0,0.10000000000000009,6,0.19913707268503153
+Magnesium_median,True,,3013,185,2.0,0.10000000000000009,6,0.19913707268503153
+Magnesium_min,True,,3013,185,2.0,0.10000000000000009,34,1.1284434118818454
+Magnesium_max,True,,3013,185,2.0,0.10000000000000009,32,1.0620643876535016
+Magnesium_std,True,MAD non calcolabile o uguale a zero,3013,185,0.0,0.0,0,
+Magnesium_first,True,,3013,185,2.0,0.10000000000000009,23,0.7633587786259541
+Magnesium_last,True,,3013,185,2.0,0.10000000000000009,16,0.5310321938267508
+Magnesium_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Magnesium_trend,True,MAD non calcolabile o uguale a zero,3013,185,0.0,0.0,0,
+Phosphate_mean,True,,3010,188,3.6,0.49999999999999956,36,1.196013289036545
+Phosphate_median,True,,3010,188,3.6,0.49999999999999956,36,1.196013289036545
+Phosphate_min,True,,3010,188,3.4,0.3999999999999999,42,1.3953488372093024
+Phosphate_max,True,,3010,188,3.7,0.5,40,1.3289036544850499
+Phosphate_std,True,MAD non calcolabile o uguale a zero,3010,188,0.0,0.0,0,
+Phosphate_first,True,,3010,188,3.55,0.44999999999999973,44,1.4617940199335548
+Phosphate_last,True,,3010,188,3.6,0.5,36,1.196013289036545
+Phosphate_count,True,MAD non calcolabile o uguale a zero,3198,0,1.0,0.0,0,
+Phosphate_trend,True,MAD non calcolabile o uguale a zero,3010,188,0.0,0.0,0,

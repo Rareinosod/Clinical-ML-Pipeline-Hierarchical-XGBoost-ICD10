@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - XGBoost_Cascata ===
+
+Accuracy            : 0.8279
+F2-Score (macro)  : 0.7663  <- metrica primaria
+F1-Score  (macro)   : 0.7680
+Precision (macro)   : 0.7718
+Recall    (macro)   : 0.7654
+F1-Score  (weighted): 0.8274
+Precision (weighted): 0.8279
+Recall    (weighted): 0.8279
+
+--- F2-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9454
+Classe 1: 0.6250
+Classe 2: 0.7283
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.93      0.95      0.94       354
+           1       0.60      0.63      0.62       130
+           2       0.78      0.72      0.75       155
+
+    accuracy                           0.83       639
+   macro avg       0.77      0.77      0.77       639
+weighted avg       0.83      0.83      0.83       639

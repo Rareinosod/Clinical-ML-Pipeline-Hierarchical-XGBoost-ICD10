@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - AdaBoost ===
+
+Accuracy            : 0.7997
+F1-Score (macro)  : 0.7257  <- metrica primaria
+F1-Score  (macro)   : 0.7257
+Precision (macro)   : 0.7292
+Recall    (macro)   : 0.7232
+F1-Score  (weighted): 0.7961
+Precision (weighted): 0.7932
+Recall    (weighted): 0.7997
+
+--- F1-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9263
+Classe 1: 0.5242
+Classe 2: 0.7267
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.91      0.94      0.93       354
+           1       0.55      0.50      0.52       130
+           2       0.72      0.73      0.73       155
+
+    accuracy                           0.80       639
+   macro avg       0.73      0.72      0.73       639
+weighted avg       0.79      0.80      0.80       639

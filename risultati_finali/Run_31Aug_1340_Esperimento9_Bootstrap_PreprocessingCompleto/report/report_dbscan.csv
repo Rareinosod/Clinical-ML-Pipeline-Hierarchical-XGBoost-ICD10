@@ -1,0 +1,13 @@
+parameter,value
+features_used,"['temperature', 'heartrate', 'resprate', 'o2sat', 'sbp', 'dbp']"
+excluded_features,{}
+n_features,6
+eps,1.5
+min_samples,10
+metric,euclidean
+n_evaluable,2897
+n_not_evaluable,301
+n_clusters,1
+n_noise,116
+noise_rate_pct,4.004142216085606
+reason_no_dbscan,

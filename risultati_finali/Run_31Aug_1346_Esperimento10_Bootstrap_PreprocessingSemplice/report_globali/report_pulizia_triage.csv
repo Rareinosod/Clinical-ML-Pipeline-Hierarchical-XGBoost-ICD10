@@ -1,0 +1,8 @@
+feature,feature_present,lower_bound,upper_bound,n_values_before,n_missing_before,n_non_numeric_converted_to_nan,n_invalid_values,n_missing_after,invalid_rate_pct
+temperature,True,80.0,115.0,3106,92,0,2,94,0.0643915003219575
+heartrate,True,10.0,300.0,3109,89,0,11,100,0.3538115149565777
+resprate,True,4.0,80.0,3108,90,0,0,90,0.0
+o2sat,True,50.0,100.0,3106,92,0,94,186,3.0264005151320026
+sbp,True,40.0,300.0,3107,91,0,0,91,0.0
+dbp,True,20.0,200.0,3106,92,0,15,107,0.4829362524146813
+pain,True,0.0,15.0,3090,108,0,153,261,4.951456310679612

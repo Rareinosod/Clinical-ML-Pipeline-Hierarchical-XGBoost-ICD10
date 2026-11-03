@@ -1,0 +1,73 @@
+Esperimento,Setup,Validazione,Modello_Base,Metrica_Tuning,Is_Fallback,Modello_Label,F1_Mean,F1_Std,F2_Mean,F2_Std,Accuracy,F_Class_0,F_Class_1,F_Class_2
+Exp 1,KFold_PreprocessingCompleto,K-Fold,XGBoost,F1,False,XGBoost_F1,0.783553419544774,0.01660720447322129,,0.0,0.8420872456964006,0.9388,0.63024,0.78166
+Exp 5,KFold_PreprocessingSemplice,K-Fold,XGBoost,F1,False,XGBoost_F1,0.783426720984219,0.007333143138461522,,0.0,0.8430276799687011,0.9372999999999999,0.62026,0.7927200000000001
+Exp 9,Bootstrap_PreprocessingCompleto,Bootstrap,XGBoost,F1,False,XGBoost_F1,0.777328685109233,0.0,,0.0,0.8357605177993528,0.9315,0.6079,0.7926
+Exp 7,"Bootstrap_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Bootstrap,XGBoost,F1,False,XGBoost_F1,0.7714057311647582,0.0,,0.0,0.8317152103559871,0.9268,0.5924,0.795
+Exp 3,"KFold_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",K-Fold,XGBoost,F1,False,XGBoost_F1,0.7706210201669296,0.019514725764597056,,0.0,0.8330183881064164,0.93326,0.60134,0.7773200000000001
+Exp 13,KFold_PreprocessingAlternativo(No DBSCAN),K-Fold,XGBoost,F1,False,XGBoost_F1,0.7698036119037496,0.012047022669826423,,0.0,0.8339583333333334,0.9375199999999999,0.60086,0.77104
+Exp 1,KFold_PreprocessingCompleto,K-Fold,SVM_Standard,F1,False,SVM_Standard_F1,0.7697238685140063,0.01244288947408691,,0.0,0.8239539319248828,0.9284600000000001,0.6240399999999999,0.75668
+Exp 1,KFold_PreprocessingCompleto,K-Fold,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7689651527764343,0.020555920540173554,,0.0,0.8264558881064163,0.9311999999999999,0.62096,0.75476
+Exp 13,KFold_PreprocessingAlternativo(No DBSCAN),K-Fold,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7674679071486656,0.019770271715093334,,0.0,0.8252058881064164,0.9305999999999999,0.6165,0.75534
+Exp 10,Bootstrap_PreprocessingSemplice,Bootstrap,XGBoost,F1,False,XGBoost_F1,0.7669046635299144,0.0,,0.0,0.8300970873786407,0.9297,0.5804,0.7907
+Exp 4,"PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Holdout,XGBoost,F1,False,XGBoost_F1,0.7667322506327722,0.0,,0.0,0.83125,0.9246,0.583,0.7927
+Exp 1,KFold_PreprocessingCompleto,K-Fold,RandomForest,F1,False,RandomForest_F1,0.7663608308621319,0.0185240834480379,,0.0,0.8308299100156494,0.9317399999999999,0.5902,0.7771600000000001
+Exp 2,PreprocessingCompleto,Holdout,XGBoost,F1,False,XGBoost_F1,0.764130448964398,0.0,,0.0,0.8296875,0.9269,0.5752,0.7903
+Exp 12,PreprocessingAlternativo(No DBSCAN),Holdout,XGBoost,F1,False,XGBoost_F1,0.7636177860444855,0.0,,0.0,0.8265625,0.9216,0.5877,0.7815
+Exp 13,KFold_PreprocessingAlternativo(No DBSCAN),K-Fold,RandomForest,F1,False,RandomForest_F1,0.7623409655730355,0.01564458028510165,,0.0,0.8286404538341159,0.9320799999999998,0.57936,0.7756000000000001
+Exp 13,KFold_PreprocessingAlternativo(No DBSCAN),K-Fold,SVM_Standard,F1,False,SVM_Standard_F1,0.7609729973875192,0.022088737928352496,,0.0,0.8180061619718308,0.92644,0.605,0.75152
+Exp 8,Bootstrap_PreprocessingAlternativo(No DBSCAN),Bootstrap,RandomForest,F1,False,RandomForest_F1,0.7602525710640643,0.0,,0.0,0.8244336569579288,0.926,0.5727,0.7821
+Exp 2,PreprocessingCompleto,Holdout,SVM_Standard,F1,False,SVM_Standard_F1,0.7602439872788711,0.0,,0.0,0.815625,0.9231,0.6202,0.7375
+Exp 9,Bootstrap_PreprocessingCompleto,Bootstrap,RandomForest,F1,False,RandomForest_F1,0.7594670832954648,0.0,,0.0,0.8268608414239482,0.9232,0.5613,0.7939
+Exp 6,PreprocessingSemplice,Holdout,XGBoost,F1,False,XGBoost_F1,0.758678193499622,0.0,,0.0,0.8234375,0.917,0.5778,0.7812
+Exp 8,Bootstrap_PreprocessingAlternativo(No DBSCAN),Bootstrap,XGBoost,F1,False,XGBoost_F1,0.7550191478225531,0.0,,0.0,0.8203883495145631,0.9281,0.5689,0.768
+Exp 7,"Bootstrap_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Bootstrap,AdaBoost,F1,False,AdaBoost_F1,0.7508225156941734,0.0,,0.0,0.8098705501618123,0.9227,0.5652,0.7645
+Exp 2,PreprocessingCompleto,Holdout,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7487907318825194,0.0,,0.0,0.8078125,0.9189,0.5929,0.7346
+Exp 3,"KFold_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",K-Fold,AdaBoost,F1,False,AdaBoost_F1,0.7473777030316862,0.01966028200337255,,0.0,0.8126951291079813,0.93234,0.57354,0.73628
+Exp 3,"KFold_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",K-Fold,SVM_Standard,F1,False,SVM_Standard_F1,0.7472089384416202,0.017805744572871627,,0.0,0.8080066510172145,0.9171199999999999,0.5776399999999999,0.74688
+Exp 8,Bootstrap_PreprocessingAlternativo(No DBSCAN),Bootstrap,SVM_Standard,F1,False,SVM_Standard_F1,0.7469656846518813,0.0,,0.0,0.8106796116504854,0.9254,0.5786,0.7368
+Exp 1,KFold_PreprocessingCompleto,K-Fold,AdaBoost,F1,False,AdaBoost_F1,0.7468134006611248,0.01375484470321028,,0.0,0.8139441510172144,0.9304400000000002,0.5614399999999999,0.7485600000000001
+Exp 12,PreprocessingAlternativo(No DBSCAN),Holdout,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7457445378695478,0.0,,0.0,0.8046875,0.9132,0.5817,0.7423
+Exp 12,PreprocessingAlternativo(No DBSCAN),Holdout,SVM_Standard,F1,False,SVM_Standard_F1,0.7455667093100032,0.0,,0.0,0.8046875,0.9185,0.5859,0.7323
+Exp 13,KFold_PreprocessingAlternativo(No DBSCAN),K-Fold,AdaBoost,F1,False,AdaBoost_F1,0.744907774262344,0.017139718839172778,,0.0,0.8123816510172143,0.93154,0.56246,0.74072
+Exp 4,"PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Holdout,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7441784583800706,0.0,,0.0,0.80625,0.9116,0.5902,0.7308
+Exp 9,Bootstrap_PreprocessingCompleto,Bootstrap,SVM_Standard,F1,False,SVM_Standard_F1,0.7431216242268635,0.0,,0.0,0.8074433656957929,0.922,0.5702,0.7372
+Exp 5,KFold_PreprocessingSemplice,K-Fold,RandomForest,F1,False,RandomForest_F1,0.7423786601612077,0.01450845051169634,,0.0,0.8164505086071987,0.9216799999999999,0.5354,0.77004
+Exp 8,Bootstrap_PreprocessingAlternativo(No DBSCAN),Bootstrap,AdaBoost,F1,False,AdaBoost_F1,0.742143253886059,0.0,,0.0,0.8066343042071198,0.9311,0.5567,0.7387
+Exp 9,Bootstrap_PreprocessingCompleto,Bootstrap,AdaBoost,F1,False,AdaBoost_F1,0.7375591163516018,0.0,,0.0,0.8001618122977346,0.9245,0.549,0.7392
+Exp 4,"PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Holdout,SVM_Standard,F1,False,SVM_Standard_F1,0.7369028290721809,0.0,,0.0,0.8,0.9132,0.5714,0.7261
+Exp 3,"KFold_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",K-Fold,RandomForest,F1,False,RandomForest_F1,0.7367537322437289,0.012624673913221439,,0.0,0.8123840962441313,0.9197,0.52484,0.7657200000000001
+Exp 7,"Bootstrap_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Bootstrap,RandomForest,F1,False,RandomForest_F1,0.7363123412458705,0.0,,0.0,0.8131067961165048,0.9136,0.5149,0.7805
+Exp 3,"KFold_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",K-Fold,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7336522633695828,0.016517644171584297,,0.0,0.8017532276995306,0.9196199999999999,0.55698,0.72436
+Exp 2,PreprocessingCompleto,Holdout,RandomForest,F1,False,RandomForest_F1,0.7314124580206451,0.0,,0.0,0.8046875,0.9148,0.5263,0.7531
+Exp 12,PreprocessingAlternativo(No DBSCAN),Holdout,RandomForest,F1,False,RandomForest_F1,0.7312061907941532,0.0,,0.0,0.803125,0.9086,0.524,0.761
+Exp 10,Bootstrap_PreprocessingSemplice,Bootstrap,RandomForest,F1,False,RandomForest_F1,0.7307932439532957,0.0,,0.0,0.8106796116504854,0.9155,0.4975,0.7793
+Exp 6,PreprocessingSemplice,Holdout,RandomForest,F1,False,RandomForest_F1,0.7304402673471598,0.0,,0.0,0.80625,0.9066,0.5069,0.7778
+Exp 8,Bootstrap_PreprocessingAlternativo(No DBSCAN),Bootstrap,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7274318849438606,0.0,,0.0,0.7977346278317152,0.9248,0.5439,0.7136
+Exp 9,Bootstrap_PreprocessingCompleto,Bootstrap,SVM_ECOC,F1,False,SVM_ECOC_F1,0.7268454079020241,0.0,,0.0,0.7969255663430421,0.9227,0.5417,0.7161
+Exp 4,"PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Holdout,AdaBoost,F1,False,AdaBoost_F1,0.726657344624364,0.0,,0.0,0.8,0.9205,0.521,0.7385
+Exp 12,PreprocessingAlternativo(No DBSCAN),Holdout,AdaBoost,F1,False,AdaBoost_F1,0.7264720250883943,0.0,,0.0,0.79375,0.9073,0.5182,0.7539
+Exp 2,PreprocessingCompleto,Holdout,AdaBoost,F1,False,AdaBoost_F1,0.7144575098362521,0.0,,0.0,0.7890625,0.917,0.498,0.7284
+Exp 4,"PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Holdout,RandomForest,F1,False,RandomForest_F1,0.7099225814599466,0.0,,0.0,0.7953125,0.9064,0.4689,0.7545
+Exp 7,"Bootstrap_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Bootstrap,SVM_Standard,F1,False,SVM_Standard_F1,0.7054079443714659,0.0,,0.0,0.7815533980582524,0.9105,0.5182,0.6875
+Exp 7,"Bootstrap_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Bootstrap,SVM_ECOC,F1,False,SVM_ECOC_F1,0.6962674370691371,0.0,,0.0,0.7742718446601942,0.9027,0.5,0.6861
+Exp 5,KFold_PreprocessingSemplice,K-Fold,DecisionTree,F1,False,DecisionTree_F1,0.6917399929078122,0.020541161295968103,,0.0,0.767657961658842,0.89876,0.49722,0.67924
+Exp 1,KFold_PreprocessingCompleto,K-Fold,DecisionTree,F1,False,DecisionTree_F1,0.689686354464555,0.027911297911179314,,0.0,0.7689123630672927,0.90256,0.48403999999999997,0.6824600000000001
+Exp 13,KFold_PreprocessingAlternativo(No DBSCAN),K-Fold,KNN,F1,False,KNN_F1,0.689607141309198,0.020384545470739708,,0.0,0.7839236111111111,0.9020199999999999,0.45705999999999997,0.70974
+Exp 2,PreprocessingCompleto,Holdout,KNN,F1,False,KNN_F1,0.6893142584355143,0.0,,0.0,0.7765625,0.8907,0.4824,0.6949
+Exp 3,"KFold_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",K-Fold,DecisionTree,F1,False,DecisionTree_F1,0.685138783271049,0.034864892195627425,,0.0,0.7635944835680751,0.9016400000000001,0.48038,0.67344
+Exp 1,KFold_PreprocessingCompleto,K-Fold,KNN,F1,False,KNN_F1,0.6838241154511812,0.020359764553664353,,0.0,0.7804817097026604,0.8988200000000001,0.4421799999999999,0.7104799999999999
+Exp 13,KFold_PreprocessingAlternativo(No DBSCAN),K-Fold,DecisionTree,F1,False,DecisionTree_F1,0.6777530511112434,0.02798208617522213,,0.0,0.759531983568075,0.8977599999999999,0.46804000000000007,0.6674599999999999
+Exp 9,Bootstrap_PreprocessingCompleto,Bootstrap,KNN,F1,False,KNN_F1,0.6757271844693206,0.0,,0.0,0.7726537216828478,0.891,0.4316,0.7046
+Exp 8,Bootstrap_PreprocessingAlternativo(No DBSCAN),Bootstrap,KNN,F1,False,KNN_F1,0.673797380566603,0.0,,0.0,0.7726537216828478,0.8904,0.4247,0.7063
+Exp 6,PreprocessingSemplice,Holdout,DecisionTree,F1,False,DecisionTree_F1,0.6674576978647262,0.0,,0.0,0.7421875,0.8785,0.4758,0.6481
+Exp 7,"Bootstrap_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Bootstrap,DecisionTree,F1,False,DecisionTree_F1,0.6603355898598874,0.0,,0.0,0.7330097087378641,0.8666,0.4467,0.6678
+Exp 12,PreprocessingAlternativo(No DBSCAN),Holdout,DecisionTree,F1,False,DecisionTree_F1,0.6564844325439121,0.0,,0.0,0.7359375,0.88,0.4461,0.6434
+Exp 4,"PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Holdout,DecisionTree,F1,False,DecisionTree_F1,0.6530024814674243,0.0,,0.0,0.734375,0.8779,0.4377,0.6434
+Exp 12,PreprocessingAlternativo(No DBSCAN),Holdout,KNN,F1,False,KNN_F1,0.6523218842662599,0.0,,0.0,0.75,0.8818,0.4272,0.648
+Exp 2,PreprocessingCompleto,Holdout,DecisionTree,F1,False,DecisionTree_F1,0.6486673038122545,0.0,,0.0,0.7328125,0.8767,0.4186,0.6507
+Exp 10,Bootstrap_PreprocessingSemplice,Bootstrap,DecisionTree,F1,False,DecisionTree_F1,0.6472155715962152,0.0,,0.0,0.720873786407767,0.8542,0.4327,0.6548
+Exp 8,Bootstrap_PreprocessingAlternativo(No DBSCAN),Bootstrap,DecisionTree,F1,False,DecisionTree_F1,0.6459894806048652,0.0,,0.0,0.7241100323624595,0.8713,0.4286,0.6381
+Exp 9,Bootstrap_PreprocessingCompleto,Bootstrap,DecisionTree,F1,False,DecisionTree_F1,0.6437758712237145,0.0,,0.0,0.7233009708737864,0.8792,0.4286,0.6236
+Exp 7,"Bootstrap_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Bootstrap,KNN,F1,False,KNN_F1,0.6256403429820647,0.0,,0.0,0.7394822006472492,0.863,0.3662,0.6477
+Exp 3,"KFold_PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",K-Fold,KNN,F1,False,KNN_F1,0.6200538427169995,0.016994998227039565,,0.0,0.7398435054773083,0.8657,0.34415999999999997,0.65032
+Exp 4,"PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)",Holdout,KNN,F1,False,KNN_F1,0.6096804245720938,0.0,,0.0,0.7375,0.8647,0.3103,0.654

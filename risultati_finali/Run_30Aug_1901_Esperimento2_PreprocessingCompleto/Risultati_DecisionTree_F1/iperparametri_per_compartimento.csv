@@ -1,0 +1,2 @@
+Compartimento,max_depth,min_samples_split,min_samples_leaf,criterion,F1-Score (macro)_CV_train
+Holdout,3,7,6,gini,0.682183521534348

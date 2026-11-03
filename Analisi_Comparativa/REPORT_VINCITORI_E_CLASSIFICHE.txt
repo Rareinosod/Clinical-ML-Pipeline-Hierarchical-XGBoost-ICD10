@@ -1,0 +1,31 @@
+🏆 TOP 3 MODELLI F1 (Massima Precisione Globale) 🏆
+===========================================
+XGBoost_F1 | F1: 0.7836 (±0.0166) | Exp 1 (KFold_PreprocessingCompleto)
+XGBoost_F1 | F1: 0.7834 (±0.0073) | Exp 5 (KFold_PreprocessingSemplice)
+XGBoost_F1 | F1: 0.7773 (±0.0000) | Exp 9 (Bootstrap_PreprocessingCompleto)
+
+🏆 TOP 3 MODELLI F2 (Ottimizzati per Sensibilità Clinica) 🏆
+===========================================
+XGBoost_F2_Fallback | F2: 0.7876 (±0.0265) | Exp 1 (KFold_PreprocessingCompleto)
+XGBoost_Cascata_F2 | F2: 0.7825 (±0.0181) | Exp 1 (KFold_PreprocessingCompleto)
+XGBoost_F2 | F2: 0.7794 (±0.0214) | Exp 1 (KFold_PreprocessingCompleto)
+
+⚖️ TOP 3 SCELTE BILANCIATE (Miglior F2 con F1 >= 0.7428) ⚖️
+===========================================
+XGBoost_F2_Fallback | F2: 0.7876 (±0.0265) (F1: 0.7895) | Exp 1 (KFold_PreprocessingCompleto)
+XGBoost_Cascata_F2 | F2: 0.7825 (±0.0181) (F1: 0.7834) | Exp 1 (KFold_PreprocessingCompleto)
+XGBoost_F2 | F2: 0.7794 (±0.0214) (F1: 0.7821) | Exp 1 (KFold_PreprocessingCompleto)
+
+🧬 TOP 10 FEATURE PIÙ INFLUENTI (Consenso Globale) 🧬
+===========================================
+1. pain (Presente 147 volte - Rank medio: 1.2)
+2. acuity (Presente 144 volte - Rank medio: 2.8)
+3. age (Presente 112 volte - Rank medio: 7.1)
+4. los_hours (Presente 109 volte - Rank medio: 5.9)
+5. Calcium_min (Presente 101 volte - Rank medio: 4.2)
+6. admission_type_EU OBSERVATION (Presente 96 volte - Rank medio: 7.4)
+7. admission_type_OBSERVATION ADMIT (Presente 80 volte - Rank medio: 7.2)
+8. admission_type_SURGICAL SAME DAY ADMISSION (Presente 71 volte - Rank medio: 7.1)
+10. Magnesium_std (Presente 68 volte - Rank medio: 7.4)
+9. temperature (Presente 68 volte - Rank medio: 7.7)
+

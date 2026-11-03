@@ -1,0 +1,89 @@
+feature,n_nan_iniziali,strategia_usata,pool_fit,righe_coinvolte_imputazione
+temperature,18,knn,all,18
+heartrate,27,knn,all,27
+resprate,23,knn,all,23
+o2sat,32,knn,all,32
+sbp,24,knn,all,24
+dbp,19,knn,all,19
+pain,59,knn,all,59
+acuity,22,knn,all,22
+Hemoglobin_mean,25,knn,all,25
+Hemoglobin_median,25,knn,all,25
+Hemoglobin_min,25,knn,all,25
+Hemoglobin_max,25,knn,all,25
+Hemoglobin_std,25,knn,all,25
+Hemoglobin_first,25,knn,all,25
+Hemoglobin_last,25,knn,all,25
+Hemoglobin_trend,25,knn,all,25
+Hematocrit_mean,29,knn,all,29
+Hematocrit_median,29,knn,all,29
+Hematocrit_min,29,knn,all,29
+Hematocrit_max,29,knn,all,29
+Hematocrit_std,29,knn,all,29
+Hematocrit_first,29,knn,all,29
+Hematocrit_last,29,knn,all,29
+Hematocrit_trend,29,knn,all,29
+White Blood Cells_mean,35,knn,all,35
+White Blood Cells_median,35,knn,all,35
+White Blood Cells_min,35,knn,all,35
+White Blood Cells_max,35,knn,all,35
+White Blood Cells_std,35,knn,all,35
+White Blood Cells_first,35,knn,all,35
+White Blood Cells_last,35,knn,all,35
+White Blood Cells_trend,35,knn,all,35
+Platelet Count_mean,20,knn,all,20
+Platelet Count_median,20,knn,all,20
+Platelet Count_min,20,knn,all,20
+Platelet Count_max,20,knn,all,20
+Platelet Count_std,20,knn,all,20
+Platelet Count_first,20,knn,all,20
+Platelet Count_last,20,knn,all,20
+Platelet Count_trend,20,knn,all,20
+Red Blood Cells_mean,24,knn,all,24
+Red Blood Cells_median,24,knn,all,24
+Red Blood Cells_min,24,knn,all,24
+Red Blood Cells_max,24,knn,all,24
+Red Blood Cells_std,24,knn,all,24
+Red Blood Cells_first,24,knn,all,24
+Red Blood Cells_last,24,knn,all,24
+Red Blood Cells_trend,24,knn,all,24
+Mean Corpuscular Volume_mean,32,knn,all,32
+Mean Corpuscular Volume_median,32,knn,all,32
+Mean Corpuscular Volume_min,32,knn,all,32
+Mean Corpuscular Volume_max,32,knn,all,32
+Mean Corpuscular Volume_std,32,knn,all,32
+Mean Corpuscular Volume_first,32,knn,all,32
+Mean Corpuscular Volume_last,32,knn,all,32
+Mean Corpuscular Volume_trend,32,knn,all,32
+Bicarbonate_mean,25,knn,all,25
+Bicarbonate_median,25,knn,all,25
+Bicarbonate_min,25,knn,all,25
+Bicarbonate_max,25,knn,all,25
+Bicarbonate_std,25,knn,all,25
+Bicarbonate_first,25,knn,all,25
+Bicarbonate_last,25,knn,all,25
+Bicarbonate_trend,25,knn,all,25
+Calcium_mean,37,knn,all,37
+Calcium_median,37,knn,all,37
+Calcium_min,37,knn,all,37
+Calcium_max,37,knn,all,37
+Calcium_std,37,knn,all,37
+Calcium_first,37,knn,all,37
+Calcium_last,37,knn,all,37
+Calcium_trend,37,knn,all,37
+Magnesium_mean,29,knn,all,29
+Magnesium_median,29,knn,all,29
+Magnesium_min,29,knn,all,29
+Magnesium_max,29,knn,all,29
+Magnesium_std,29,knn,all,29
+Magnesium_first,29,knn,all,29
+Magnesium_last,29,knn,all,29
+Magnesium_trend,29,knn,all,29
+Phosphate_mean,35,knn,all,35
+Phosphate_median,35,knn,all,35
+Phosphate_min,35,knn,all,35
+Phosphate_max,35,knn,all,35
+Phosphate_std,35,knn,all,35
+Phosphate_first,35,knn,all,35
+Phosphate_last,35,knn,all,35
+Phosphate_trend,35,knn,all,35

@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - KNN ===
+
+Accuracy            : 0.7781
+F2-Score (macro)  : 0.6740  <- metrica primaria
+F1-Score  (macro)   : 0.6785
+Precision (macro)   : 0.7283
+Recall    (macro)   : 0.6765
+F1-Score  (weighted): 0.7532
+Precision (weighted): 0.7612
+Recall    (weighted): 0.7781
+
+--- F2-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9278
+Classe 1: 0.3339
+Classe 2: 0.7605
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.82      0.96      0.89       354
+           1       0.65      0.30      0.41       131
+           2       0.71      0.77      0.74       155
+
+    accuracy                           0.78       640
+   macro avg       0.73      0.68      0.68       640
+weighted avg       0.76      0.78      0.75       640

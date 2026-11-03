@@ -1,0 +1,16 @@
+feature,feature_present,lower_bound,upper_bound,n_cells_before,n_values_total,n_values_invalid,n_cells_emptied,invalid_rate_pct
+Hemoglobin,True,2.0,25.0,3048,4933,3,0,0.0608149199270221
+Hematocrit,True,10.0,70.0,3048,4965,10,0,0.2014098690835851
+White Blood Cells,True,0.5,60.0,3046,4945,4,0,0.08088978766430738
+Platelet Count,True,5.0,1200.0,3046,4906,10,1,0.20383204239706482
+Red Blood Cells,True,1.0,8.0,3046,4883,4,0,0.08191685439279131
+Mean Corpuscular Volume,True,50.0,130.0,3046,4906,4,0,0.08153281695882593
+Bicarbonate,True,5.0,45.0,3045,4965,0,0,0.0
+Calcium,True,4.0,15.0,3001,4646,0,0,0.0
+Magnesium,True,0.5,5.0,3000,4691,0,0,0.0
+Phosphate,True,0.5,10.0,3000,4639,0,0,0.0
+C-Reactive Protein,True,0.0,600.0,102,172,0,0,0.0
+Creatinine,False,0.1,20.0,0,0,0,0,
+Sodium,False,100.0,180.0,0,0,0,0,
+Potassium,False,1.5,9.0,0,0,0,0,
+Glucose,False,20.0,800.0,0,0,0,0,

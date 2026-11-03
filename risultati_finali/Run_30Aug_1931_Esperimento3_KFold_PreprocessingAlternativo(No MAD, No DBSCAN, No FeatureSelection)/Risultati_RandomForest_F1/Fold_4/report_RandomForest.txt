@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - RandomForest ===
+
+Accuracy            : 0.8263
+F1-Score (macro)  : 0.7571  <- metrica primaria
+F1-Score  (macro)   : 0.7571
+Precision (macro)   : 0.7711
+Recall    (macro)   : 0.7541
+F1-Score  (weighted): 0.8181
+Precision (weighted): 0.8173
+Recall    (weighted): 0.8263
+
+--- F1-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9284
+Classe 1: 0.5600
+Classe 2: 0.7829
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.91      0.95      0.93       354
+           1       0.66      0.48      0.56       130
+           2       0.74      0.83      0.78       155
+
+    accuracy                           0.83       639
+   macro avg       0.77      0.75      0.76       639
+weighted avg       0.82      0.83      0.82       639

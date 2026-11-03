@@ -1,0 +1,2 @@
+Modello,Accuracy,F_Target_macro,F1_macro,Precision_macro,Recall_macro,F1_weighted,Precision_weighted,Recall_weighted
+AdaBoost,0.7890625,0.7144575098362521,0.7144575098362521,0.7153270003653635,0.715514993481095,0.7859199938765943,0.7840444601753744,0.7890625

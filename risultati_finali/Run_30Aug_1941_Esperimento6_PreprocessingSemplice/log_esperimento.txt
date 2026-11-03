@@ -1,0 +1,14 @@
+======================================================================
+LOG ESPERIMENTO #6 - 30Aug_1941
+======================================================================
+
+Etichetta setup: PreprocessingSemplice
+Strategia Validazione: Holdout (80/20)
+
+--- STEP OPZIONALI ---
+MAD (outlier univariati): Saltato
+DBSCAN (outlier multivariati): Saltato
+Imputazione NaN: Saltata (NaN lasciati nel dataset)
+Feature Selection (Spearman + Kruskal): Saltata
+
+Grafici diagnostici generati: True

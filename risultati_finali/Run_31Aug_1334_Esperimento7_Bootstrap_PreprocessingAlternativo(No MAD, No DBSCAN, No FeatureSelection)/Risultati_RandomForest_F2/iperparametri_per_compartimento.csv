@@ -1,0 +1,2 @@
+Compartimento,n_estimators,max_depth,min_samples_split,class_weight,F2-Score (macro)_CV_train
+Holdout,250,26,8,balanced,0.8601104743379117

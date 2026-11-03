@@ -1,0 +1,165 @@
+feature,p_value,selected
+pain,1.7388127978446733e-302,True
+Calcium_min,4.511922658035765e-255,True
+White Blood Cells_std,2.186539877500117e-217,True
+Platelet Count_std,4.229051328894134e-217,True
+White Blood Cells_count,2.2226073713004045e-216,True
+Mean Corpuscular Volume_count,7.99802048965164e-214,True
+Hematocrit_count,2.0061995744006368e-212,True
+Bicarbonate_count,1.669591838408482e-211,True
+Red Blood Cells_std,1.0351282062261478e-209,True
+Hemoglobin_std,4.9152632332350485e-208,True
+Hemoglobin_count,3.4607661025290226e-204,True
+Calcium_count,2.8112495181073764e-197,True
+Magnesium_std,1.7200526520262292e-195,True
+Bicarbonate_std,1.891934538827488e-192,True
+Calcium_std,3.435341960511592e-190,True
+Magnesium_count,2.2247106895695192e-189,True
+Phosphate_std,1.1177068194148023e-179,True
+Phosphate_count,5.549898356012393e-179,True
+Mean Corpuscular Volume_std,2.753718301627247e-160,True
+admission_type_EU OBSERVATION,3.3048243140474026e-154,True
+Calcium_max,6.802137851857343e-153,True
+los_hours,1.0154376240816227e-152,True
+admission_type_OBSERVATION ADMIT,3.6696917151277684e-103,True
+Hemoglobin_min,3.7357538839426484e-101,True
+acuity,3.1262254583149494e-99,True
+Hematocrit_min,1.909272408146721e-96,True
+Red Blood Cells_min,1.9921692468716582e-91,True
+Magnesium_min,8.136538459788974e-79,True
+admission_type_SURGICAL SAME DAY ADMISSION,1.3657255490050885e-71,True
+White Blood Cells_max,2.888548660874999e-66,True
+White Blood Cells_trend,7.422472645865802e-51,True
+age,1.4617424439004308e-45,True
+heartrate_is_missing,3.915769810088136e-45,True
+Phosphate_min,1.0217807290280916e-41,True
+sbp_is_missing,8.425114706145593e-35,True
+acuity_is_missing,7.843636467721777e-31,True
+temperature_is_missing,1.1584999266307071e-30,True
+Platelet Count_min,9.27091571220478e-30,True
+dbp_is_missing,1.3967711200209446e-28,True
+Hematocrit_trend,2.417573132777296e-28,True
+resprate_is_missing,4.0183254448825335e-28,True
+Hematocrit_max,6.919159666935456e-26,True
+Red Blood Cells_trend,2.061725528670261e-25,True
+o2sat_is_missing,9.806076503160568e-25,True
+crp_elevated,1.872547143756263e-22,True
+Bicarbonate_max,1.6116990943822258e-20,True
+pain_is_missing,3.030153794106508e-20,True
+Bicarbonate_trend,7.449952074167796e-19,True
+Bicarbonate_min,3.971426842618318e-18,True
+Mean Corpuscular Volume_mean_is_missing,6.383888743445669e-18,True
+gender_M,8.892864979378276e-18,True
+o2sat,1.974067139013118e-17,True
+race_BLACK/AFRICAN AMERICAN,3.285505435787267e-17,True
+Hemoglobin_trend,5.5403177688532394e-17,True
+Hematocrit_mean_is_missing,1.0610632933746255e-16,True
+White Blood Cells_mean_is_missing,8.392612096702147e-15,True
+Bicarbonate_mean_is_missing,2.5738986346973684e-14,True
+admission_type_EW EMER.,3.866522803946857e-14,True
+Hemoglobin_mean_is_missing,9.620878925970607e-14,True
+admission_type_ELECTIVE,1.1924229874531513e-13,True
+Calcium_mean_is_missing,2.998987886526026e-13,True
+Magnesium_mean_is_missing,6.902002753518113e-13,True
+Platelet Count_mean_is_missing,3.243511880329958e-12,True
+Red Blood Cells_mean_is_missing,5.7113638439748506e-12,True
+White Blood Cells_last,9.092611034639747e-12,True
+Phosphate_mean_is_missing,6.539998474100713e-11,True
+Mean Corpuscular Volume_trend,9.016715396768046e-11,True
+temperature,1.2195066464101067e-09,True
+Phosphate_first,7.335108811166838e-09,True
+Phosphate_last,2.5549554709565066e-08,True
+Mean Corpuscular Volume_max,6.959075728787342e-08,True
+race_BLACK/CAPE VERDEAN,3.6706173358641985e-07,True
+heartrate,9.362305776132472e-07,True
+resprate,4.20081737066637e-06,True
+Platelet Count_trend,2.1204581654019097e-05,True
+race_WHITE - OTHER EUROPEAN,0.00013637172819937958,True
+race_ASIAN - CHINESE,0.000520669275760259,True
+race_HISPANIC/LATINO - DOMINICAN,0.001137094523630264,True
+race_WHITE - BRAZILIAN,0.0014848466372486043,True
+admission_type_URGENT,0.0026488291177054262,True
+Magnesium_trend,0.0032229607154200535,True
+Magnesium_max,0.004842084931916493,True
+admission_type_DIRECT EMER.,0.006157798749793746,True
+race_ASIAN - KOREAN,0.00778684232316475,True
+race_PATIENT DECLINED TO ANSWER,0.019967155809034916,True
+race_SOUTH AMERICAN,0.03288171089029867,True
+race_WHITE - RUSSIAN,0.03515983632777285,True
+Phosphate_trend,0.050224907410974955,False
+race_HISPANIC/LATINO - MEXICAN,0.055094213888559194,False
+race_NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,0.059069637302023505,False
+race_ASIAN - SOUTH EAST ASIAN,0.05978330956497869,False
+race_HISPANIC/LATINO - HONDURAN,0.06895695023319123,False
+race_HISPANIC/LATINO - PUERTO RICAN,0.0716911021417734,False
+dbp,0.0784411385189129,False
+race_BLACK/CARIBBEAN ISLAND,0.10182471719699925,False
+race_ASIAN - ASIAN INDIAN,0.12203166753149249,False
+mortality,0.12695554381984597,False
+race_HISPANIC/LATINO - GUATEMALAN,0.1512891981525531,False
+race_WHITE,0.20096087934222248,False
+race_HISPANIC/LATINO - CUBAN,0.2979209693762561,False
+race_PORTUGUESE,0.4107090525036703,False
+race_BLACK/AFRICAN,0.41499344171281405,False
+race_OTHER,0.4563646919634675,False
+sbp,0.46421913321430663,False
+admission_type_DIRECT OBSERVATION,0.5125880930945916,False
+race_HISPANIC/LATINO - CENTRAL AMERICAN,0.5234625327832219,False
+race_WHITE - EASTERN EUROPEAN,0.6007472990405752,False
+race_HISPANIC/LATINO - SALVADORAN,0.6670714296499103,False
+Calcium_trend,0.7049087539076921,False
+race_UNABLE TO OBTAIN,0.7363619663379828,False
+race_ASIAN,0.8282985614659457,False
+race_HISPANIC/LATINO - COLUMBIAN,0.912192965236358,False
+mortality_is_missing,1.0,False
+admission_type_DIRECT EMER._is_missing,1.0,False
+admission_type_DIRECT OBSERVATION_is_missing,1.0,False
+admission_type_ELECTIVE_is_missing,1.0,False
+admission_type_EU OBSERVATION_is_missing,1.0,False
+admission_type_EW EMER._is_missing,1.0,False
+admission_type_OBSERVATION ADMIT_is_missing,1.0,False
+admission_type_SURGICAL SAME DAY ADMISSION_is_missing,1.0,False
+admission_type_URGENT_is_missing,1.0,False
+race_ASIAN_is_missing,1.0,False
+race_ASIAN - ASIAN INDIAN_is_missing,1.0,False
+race_ASIAN - CHINESE_is_missing,1.0,False
+race_ASIAN - KOREAN_is_missing,1.0,False
+race_ASIAN - SOUTH EAST ASIAN_is_missing,1.0,False
+age_is_missing,1.0,False
+los_hours_is_missing,1.0,False
+race_SOUTH AMERICAN_is_missing,1.0,False
+race_PORTUGUESE_is_missing,1.0,False
+race_PATIENT DECLINED TO ANSWER_is_missing,1.0,False
+race_OTHER_is_missing,1.0,False
+race_NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER_is_missing,1.0,False
+race_HISPANIC/LATINO - SALVADORAN_is_missing,1.0,False
+race_HISPANIC/LATINO - PUERTO RICAN_is_missing,1.0,False
+race_HISPANIC/LATINO - MEXICAN_is_missing,1.0,False
+race_HISPANIC/LATINO - HONDURAN_is_missing,1.0,False
+race_HISPANIC/LATINO - GUATEMALAN_is_missing,1.0,False
+race_HISPANIC/LATINO - DOMINICAN_is_missing,1.0,False
+race_HISPANIC/LATINO - CUBAN_is_missing,1.0,False
+race_HISPANIC/LATINO - COLUMBIAN_is_missing,1.0,False
+race_HISPANIC/LATINO - CENTRAL AMERICAN_is_missing,1.0,False
+race_BLACK/CARIBBEAN ISLAND_is_missing,1.0,False
+race_BLACK/CAPE VERDEAN_is_missing,1.0,False
+race_BLACK/AFRICAN AMERICAN_is_missing,1.0,False
+race_BLACK/AFRICAN_is_missing,1.0,False
+crp_elevated_is_missing,1.0,False
+race_UNABLE TO OBTAIN_is_missing,1.0,False
+race_WHITE - EASTERN EUROPEAN_is_missing,1.0,False
+race_WHITE - OTHER EUROPEAN_is_missing,1.0,False
+race_WHITE - BRAZILIAN_is_missing,1.0,False
+race_WHITE_is_missing,1.0,False
+Platelet Count_count_is_missing,1.0,False
+White Blood Cells_count_is_missing,1.0,False
+Hemoglobin_count_is_missing,1.0,False
+Hematocrit_count_is_missing,1.0,False
+Mean Corpuscular Volume_count_is_missing,1.0,False
+Red Blood Cells_count_is_missing,1.0,False
+race_WHITE - RUSSIAN_is_missing,1.0,False
+gender_M_is_missing,1.0,False
+Calcium_count_is_missing,1.0,False
+Bicarbonate_count_is_missing,1.0,False
+Magnesium_count_is_missing,1.0,False
+Phosphate_count_is_missing,1.0,False

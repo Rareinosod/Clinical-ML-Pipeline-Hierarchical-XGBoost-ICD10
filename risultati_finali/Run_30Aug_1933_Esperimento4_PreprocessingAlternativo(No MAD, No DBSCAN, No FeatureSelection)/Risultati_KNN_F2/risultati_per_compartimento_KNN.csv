@@ -1,0 +1,2 @@
+Modello,Accuracy,F_Target_macro,F1_macro,Precision_macro,Recall_macro,F1_weighted,Precision_weighted,Recall_weighted
+KNN,0.7375,0.606638747024045,0.6096804245720938,0.6813479338089675,0.6113501376213241,0.7007463362977172,0.7154262645424716,0.7375

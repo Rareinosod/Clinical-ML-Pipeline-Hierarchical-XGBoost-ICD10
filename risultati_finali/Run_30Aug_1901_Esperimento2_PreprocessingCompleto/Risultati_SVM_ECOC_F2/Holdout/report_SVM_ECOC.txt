@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - SVM_ECOC ===
+
+Accuracy            : 0.8078
+F2-Score (macro)  : 0.7498  <- metrica primaria
+F1-Score  (macro)   : 0.7488
+Precision (macro)   : 0.7479
+Recall    (macro)   : 0.7507
+F1-Score  (weighted): 0.8078
+Precision (weighted): 0.8084
+Recall    (weighted): 0.8078
+
+--- F2-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9150
+Classe 1: 0.5832
+Classe 2: 0.7513
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92       354
+           1       0.61      0.58      0.59       130
+           2       0.71      0.76      0.73       156
+
+    accuracy                           0.81       640
+   macro avg       0.75      0.75      0.75       640
+weighted avg       0.81      0.81      0.81       640

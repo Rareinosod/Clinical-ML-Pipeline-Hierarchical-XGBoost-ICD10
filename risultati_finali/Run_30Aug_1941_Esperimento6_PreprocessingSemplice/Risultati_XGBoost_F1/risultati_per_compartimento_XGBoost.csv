@@ -1,0 +1,2 @@
+Modello,Accuracy,F_Target_macro,F1_macro,Precision_macro,Recall_macro,F1_weighted,Precision_weighted,Recall_weighted
+XGBoost,0.8234375,0.758678193499622,0.758678193499622,0.776973361320849,0.7510864841373316,0.8150101863662131,0.8140123713775989,0.8234375

@@ -1,0 +1,89 @@
+Feature,Importanza_Media
+pain,0.06203872519046767
+Calcium_min,0.034918983395733606
+los_hours,0.025512008512203633
+acuity,0.02402340782829242
+age,0.01589006028831972
+admission_type_SURGICAL SAME DAY ADMISSION,0.014051000155980287
+Hematocrit_max,0.012385952660192646
+Magnesium_std,0.012166738790535491
+resprate,0.010272081687959633
+Phosphate_first,0.009481711912376612
+Platelet Count_std,0.008379106909448385
+Platelet Count_trend,0.007836741373592493
+admission_type_EU OBSERVATION,0.006965393248823304
+Platelet Count_min,0.006409064491081651
+dbp,0.006320004760770326
+Calcium_std,0.005924268848416636
+White Blood Cells_last,0.005820246564952303
+White Blood Cells_trend,0.005736616899667202
+Magnesium_min,0.0056709807350515005
+White Blood Cells_max,0.004969272304126493
+Mean Corpuscular Volume_trend,0.003635992394459531
+temperature_is_missing,0.0020740682152645684
+Hemoglobin_std,0.0015480126145552386
+Hematocrit_trend,0.0014354939250508457
+Red Blood Cells_min,0.0012853094293077349
+Hemoglobin_count,0.0010815476664873813
+heartrate,0.0008895462246015118
+temperature,0.0008751520598866636
+Calcium_count,0.0005363902707160806
+admission_type_EW EMER.,0.00048447443001624623
+Phosphate_std,9.251869455741967e-05
+race_BLACK/AFRICAN AMERICAN,2.541971720573244e-05
+Hematocrit_count,1.7435596099169003e-05
+resprate_is_missing,0.0
+Calcium_mean_is_missing,0.0
+race_WHITE - OTHER EUROPEAN,0.0
+Hematocrit_mean_is_missing,0.0
+Hemoglobin_mean_is_missing,0.0
+Magnesium_mean_is_missing,0.0
+Bicarbonate_mean_is_missing,0.0
+race_WHITE - RUSSIAN,0.0
+race_HISPANIC/LATINO - DOMINICAN,0.0
+race_ASIAN - SOUTH EAST ASIAN,0.0
+race_WHITE - BRAZILIAN,0.0
+sbp_is_missing,0.0
+race_ASIAN - ASIAN INDIAN,0.0
+race_ASIAN - KOREAN,0.0
+race_ASIAN - CHINESE,0.0
+admission_type_DIRECT EMER.,0.0
+acuity_is_missing,0.0
+White Blood Cells_mean_is_missing,0.0
+o2sat_is_missing,0.0
+Red Blood Cells_mean_is_missing,0.0
+Phosphate_mean_is_missing,0.0
+Mean Corpuscular Volume_mean_is_missing,0.0
+Platelet Count_mean_is_missing,0.0
+dbp_is_missing,0.0
+race_BLACK/CAPE VERDEAN,0.0
+admission_type_URGENT,0.0
+crp_elevated,-0.00023675940763252524
+Hemoglobin_trend,-0.00042948518523366896
+admission_type_ELECTIVE,-0.0005037868183165095
+o2sat,-0.0006448930253266872
+heartrate_is_missing,-0.000664364607733714
+pain_is_missing,-0.0009025106595979881
+White Blood Cells_std,-0.0009829045590956432
+Bicarbonate_trend,-0.0010704854183286373
+Bicarbonate_count,-0.0015897345627750691
+Platelet Count_count,-0.0022841234574640266
+Magnesium_count,-0.0026575735456430215
+Phosphate_min,-0.0027660441770010146
+Magnesium_trend,-0.0031620237976088816
+White Blood Cells_count,-0.0032412052543591362
+Bicarbonate_max,-0.0035616655475270596
+Phosphate_last,-0.0035662576254174906
+Hemoglobin_min,-0.003638203727628575
+Magnesium_max,-0.003820529804814332
+Mean Corpuscular Volume_count,-0.0038547136129074345
+Bicarbonate_min,-0.004113948057496453
+Mean Corpuscular Volume_max,-0.0041325956040142
+Hematocrit_min,-0.004612770991809301
+admission_type_OBSERVATION ADMIT,-0.004883370753343353
+gender_M,-0.005093734193979826
+Phosphate_count,-0.005997340316673361
+Mean Corpuscular Volume_std,-0.0061528133146626866
+Red Blood Cells_trend,-0.006282329402629472
+Red Blood Cells_std,-0.006656957040845346
+Bicarbonate_std,-0.011500983572883539

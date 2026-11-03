@@ -1,0 +1,2 @@
+Compartimento,n_neighbors,weights,metric,F2-Score (macro)_CV_train
+Holdout,7,distance,manhattan,0.8471973853653468

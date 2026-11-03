@@ -1,0 +1,14 @@
+======================================================================
+LOG ESPERIMENTO #5 - 30Aug_1940
+======================================================================
+
+Etichetta setup: KFold_PreprocessingSemplice
+Strategia Validazione: K-Fold (5 splits)
+
+--- STEP OPZIONALI ---
+MAD (outlier univariati): Saltato
+DBSCAN (outlier multivariati): Saltato
+Imputazione NaN: Saltata (NaN lasciati nel dataset)
+Feature Selection (Spearman + Kruskal): Saltata
+
+Grafici diagnostici generati: False

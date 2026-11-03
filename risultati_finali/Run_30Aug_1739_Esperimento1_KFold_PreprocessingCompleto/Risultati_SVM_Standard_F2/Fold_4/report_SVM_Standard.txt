@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - SVM_Standard ===
+
+Accuracy            : 0.8279
+F2-Score (macro)  : 0.7809  <- metrica primaria
+F1-Score  (macro)   : 0.7784
+Precision (macro)   : 0.7761
+Recall    (macro)   : 0.7832
+F1-Score  (weighted): 0.8312
+Precision (weighted): 0.8362
+Recall    (weighted): 0.8279
+
+--- F2-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9215
+Classe 1: 0.6726
+Classe 2: 0.7487
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.93       354
+           1       0.60      0.69      0.65       130
+           2       0.78      0.74      0.76       155
+
+    accuracy                           0.83       639
+   macro avg       0.78      0.78      0.78       639
+weighted avg       0.84      0.83      0.83       639

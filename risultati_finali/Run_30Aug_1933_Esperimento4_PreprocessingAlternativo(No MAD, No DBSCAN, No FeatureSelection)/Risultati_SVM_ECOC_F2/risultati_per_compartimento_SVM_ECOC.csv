@@ -1,0 +1,2 @@
+Modello,Accuracy,F_Target_macro,F1_macro,Precision_macro,Recall_macro,F1_weighted,Precision_weighted,Recall_weighted
+SVM_ECOC,0.80625,0.740814919422809,0.7441784583800706,0.7514133566765145,0.7389395914819644,0.8022320215560186,0.7997421763869133,0.80625

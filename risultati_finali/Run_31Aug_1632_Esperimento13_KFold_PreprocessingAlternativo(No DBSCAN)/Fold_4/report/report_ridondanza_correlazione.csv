@@ -1,0 +1,118 @@
+feature_tenuta,feature_scartata,correlazione_inter_feature,corr_target_tenuta,corr_target_scartata
+Hemoglobin_median,Hemoglobin_mean,0.998758896618067,0.3248519727478736,0.3213086421460694
+Hemoglobin_min,Hemoglobin_median,0.9840373852091053,0.38234168715851485,0.3248519727478736
+Hemoglobin_min,Hemoglobin_max,0.9194071027033875,0.38234168715851485,0.22917682330146077
+Hemoglobin_min,Hemoglobin_first,0.9369779921233181,0.38234168715851485,0.26224179541059234
+Hemoglobin_min,Hemoglobin_last,0.9832656375747838,0.38234168715851485,0.3436709507149316
+Hematocrit_median,Hematocrit_mean,0.9983675595077155,0.30818051033100397,0.30374955194763914
+Hematocrit_min,Hematocrit_median,0.9799938726827948,0.3764528417748881,0.30818051033100397
+Hematocrit_min,Hematocrit_first,0.9153081864025577,0.3764528417748881,0.22784978384056953
+Hematocrit_min,Hematocrit_last,0.9767764059203309,0.3764528417748881,0.3268576127806103
+Hematocrit_std,Hematocrit_count,0.9100718975052653,0.5559569500989044,0.5544158476351358
+White Blood Cells_mean,White Blood Cells_median,0.9945009218260553,0.18457459173710883,0.16673462426453622
+White Blood Cells_mean,White Blood Cells_min,0.9298407727994218,0.18457459173710883,0.016589077821987968
+White Blood Cells_max,White Blood Cells_mean,0.9572413652556441,0.3109345852453298,0.18457459173710883
+White Blood Cells_max,White Blood Cells_first,0.9413517868103991,0.3109345852453298,0.24013103641443295
+Platelet Count_median,Platelet Count_mean,0.9986091370542918,0.12925050162617646,0.12316832145609999
+Platelet Count_min,Platelet Count_median,0.9821310566415425,0.19209229452890084,0.12925050162617646
+Platelet Count_min,Platelet Count_max,0.9309145034223975,0.19209229452890084,0.05080557017589738
+Platelet Count_min,Platelet Count_first,0.9716483340910611,0.19209229452890084,0.12307338511158727
+Platelet Count_min,Platelet Count_last,0.9564296871562802,0.19209229452890084,0.10461159665963189
+Platelet Count_std,Platelet Count_count,0.9066020888531721,0.5551490338293252,0.5430481965677275
+Red Blood Cells_median,Red Blood Cells_mean,0.998618109422301,0.2906384151373473,0.28666394340329665
+Red Blood Cells_min,Red Blood Cells_median,0.983466515824009,0.35400308700233024,0.2906384151373473
+Red Blood Cells_min,Red Blood Cells_max,0.9143394260380662,0.35400308700233024,0.1871573805253475
+Red Blood Cells_min,Red Blood Cells_first,0.9331169345173412,0.35400308700233024,0.2261256175887784
+Red Blood Cells_min,Red Blood Cells_last,0.9810340034128745,0.35400308700233024,0.308793169385737
+Red Blood Cells_std,Red Blood Cells_count,0.9048851662051283,0.5487336886984605,0.5360840945341546
+Mean Corpuscular Volume_mean,Mean Corpuscular Volume_median,0.9991476888753169,0.04615554906439443,0.045557441588811115
+Mean Corpuscular Volume_mean,Mean Corpuscular Volume_min,0.9923003387987277,0.04615554906439443,0.001753751792233414
+Mean Corpuscular Volume_max,Mean Corpuscular Volume_mean,0.9913727564824437,0.09274730998947095,0.04615554906439443
+Mean Corpuscular Volume_max,Mean Corpuscular Volume_first,0.9836125194611686,0.09274730998947095,0.042031031894750354
+Mean Corpuscular Volume_max,Mean Corpuscular Volume_last,0.98535713260397,0.09274730998947095,0.05289465148883246
+Bicarbonate_median,Bicarbonate_mean,0.9943853187415088,0.017846838667966616,0.014338617727047993
+Bicarbonate_min,Bicarbonate_median,0.9161131473199817,0.14680712936259077,0.017846838667966616
+Bicarbonate_min,Bicarbonate_first,0.9244465875919896,0.14680712936259077,0.03291624928191216
+Bicarbonate_max,Bicarbonate_last,0.9261503035255965,0.17270047610266379,0.053059256721852084
+Calcium_median,Calcium_mean,0.9982216672148252,0.5503041321896582,0.5492345469058253
+Calcium_min,Calcium_median,0.9799688916592489,0.5940870493834954,0.5503041321896582
+Calcium_min,Calcium_first,0.9480508421655415,0.5940870493834954,0.5177327841655852
+Calcium_min,Calcium_last,0.9492857441476322,0.5940870493834954,0.5299422658314269
+Magnesium_median,Magnesium_mean,0.9918920185972222,0.215986063759871,0.20899265253574045
+Magnesium_min,Magnesium_median,0.9473972641262028,0.3287329369084776,0.215986063759871
+Magnesium_min,Magnesium_first,0.9303005666823587,0.3287329369084776,0.21928893920890055
+Magnesium_last,Magnesium_max,0.9083753149166391,0.18315146737858737,0.047405421145194145
+Phosphate_mean,Phosphate_median,0.995807822635676,0.14491092177700787,0.14235941902452812
+Phosphate_min,Phosphate_mean,0.9346144275084893,0.2624383171156759,0.14491092177700787
+Phosphate_min,Phosphate_first,0.9009615523970057,0.2624383171156759,0.12926588460767285
+Phosphate_last,Phosphate_max,0.9206422047754417,0.12267920863739253,0.0059031696863535675
+Hemoglobin_mean_is_missing,Hemoglobin_median_is_missing,1.0,0.1349809265038178,0.1349809265038178
+Hemoglobin_mean_is_missing,Hemoglobin_min_is_missing,1.0,0.1349809265038178,0.1349809265038178
+Hemoglobin_mean_is_missing,Hemoglobin_max_is_missing,1.0,0.1349809265038178,0.1349809265038178
+Hemoglobin_mean_is_missing,Hemoglobin_std_is_missing,1.0,0.1349809265038178,0.1349809265038178
+Hemoglobin_mean_is_missing,Hemoglobin_first_is_missing,1.0,0.1349809265038178,0.1349809265038178
+Hemoglobin_mean_is_missing,Hemoglobin_last_is_missing,1.0,0.1349809265038178,0.1349809265038178
+Hemoglobin_mean_is_missing,Hemoglobin_trend_is_missing,1.0,0.1349809265038178,0.1349809265038178
+Hematocrit_mean_is_missing,Hematocrit_median_is_missing,1.0,0.1484412892393439,0.1484412892393439
+Hematocrit_mean_is_missing,Hematocrit_min_is_missing,1.0,0.1484412892393439,0.1484412892393439
+Hematocrit_mean_is_missing,Hematocrit_max_is_missing,1.0,0.1484412892393439,0.1484412892393439
+Hematocrit_mean_is_missing,Hematocrit_std_is_missing,1.0,0.1484412892393439,0.1484412892393439
+Hematocrit_mean_is_missing,Hematocrit_first_is_missing,1.0,0.1484412892393439,0.1484412892393439
+Hematocrit_mean_is_missing,Hematocrit_last_is_missing,1.0,0.1484412892393439,0.1484412892393439
+Hematocrit_mean_is_missing,Hematocrit_trend_is_missing,1.0,0.1484412892393439,0.1484412892393439
+White Blood Cells_mean_is_missing,White Blood Cells_median_is_missing,1.0,0.14264663479442435,0.14264663479442435
+White Blood Cells_mean_is_missing,White Blood Cells_min_is_missing,1.0,0.14264663479442435,0.14264663479442435
+White Blood Cells_mean_is_missing,White Blood Cells_max_is_missing,1.0,0.14264663479442435,0.14264663479442435
+White Blood Cells_mean_is_missing,White Blood Cells_std_is_missing,1.0,0.14264663479442435,0.14264663479442435
+White Blood Cells_mean_is_missing,White Blood Cells_first_is_missing,1.0,0.14264663479442435,0.14264663479442435
+White Blood Cells_mean_is_missing,White Blood Cells_last_is_missing,1.0,0.14264663479442435,0.14264663479442435
+White Blood Cells_mean_is_missing,White Blood Cells_trend_is_missing,1.0,0.14264663479442435,0.14264663479442435
+Platelet Count_mean_is_missing,Platelet Count_median_is_missing,1.0,0.1314094020317558,0.1314094020317558
+Platelet Count_mean_is_missing,Platelet Count_min_is_missing,1.0,0.1314094020317558,0.1314094020317558
+Platelet Count_mean_is_missing,Platelet Count_max_is_missing,1.0,0.1314094020317558,0.1314094020317558
+Platelet Count_mean_is_missing,Platelet Count_std_is_missing,1.0,0.1314094020317558,0.1314094020317558
+Platelet Count_mean_is_missing,Platelet Count_first_is_missing,1.0,0.1314094020317558,0.1314094020317558
+Platelet Count_mean_is_missing,Platelet Count_last_is_missing,1.0,0.1314094020317558,0.1314094020317558
+Platelet Count_mean_is_missing,Platelet Count_trend_is_missing,1.0,0.1314094020317558,0.1314094020317558
+Red Blood Cells_mean_is_missing,Red Blood Cells_median_is_missing,1.0,0.11778181824929482,0.11778181824929482
+Red Blood Cells_mean_is_missing,Red Blood Cells_min_is_missing,1.0,0.11778181824929482,0.11778181824929482
+Red Blood Cells_mean_is_missing,Red Blood Cells_max_is_missing,1.0,0.11778181824929482,0.11778181824929482
+Red Blood Cells_mean_is_missing,Red Blood Cells_std_is_missing,1.0,0.11778181824929482,0.11778181824929482
+Red Blood Cells_mean_is_missing,Red Blood Cells_first_is_missing,1.0,0.11778181824929482,0.11778181824929482
+Red Blood Cells_mean_is_missing,Red Blood Cells_last_is_missing,1.0,0.11778181824929482,0.11778181824929482
+Red Blood Cells_mean_is_missing,Red Blood Cells_trend_is_missing,1.0,0.11778181824929482,0.11778181824929482
+Mean Corpuscular Volume_mean_is_missing,Mean Corpuscular Volume_median_is_missing,1.0,0.14681740727842305,0.14681740727842305
+Mean Corpuscular Volume_mean_is_missing,Mean Corpuscular Volume_min_is_missing,1.0,0.14681740727842305,0.14681740727842305
+Mean Corpuscular Volume_mean_is_missing,Mean Corpuscular Volume_max_is_missing,1.0,0.14681740727842305,0.14681740727842305
+Mean Corpuscular Volume_mean_is_missing,Mean Corpuscular Volume_std_is_missing,1.0,0.14681740727842305,0.14681740727842305
+Mean Corpuscular Volume_mean_is_missing,Mean Corpuscular Volume_first_is_missing,1.0,0.14681740727842305,0.14681740727842305
+Mean Corpuscular Volume_mean_is_missing,Mean Corpuscular Volume_last_is_missing,1.0,0.14681740727842305,0.14681740727842305
+Mean Corpuscular Volume_mean_is_missing,Mean Corpuscular Volume_trend_is_missing,1.0,0.14681740727842305,0.14681740727842305
+Bicarbonate_mean_is_missing,Bicarbonate_median_is_missing,1.0,0.1405867478581699,0.1405867478581699
+Bicarbonate_mean_is_missing,Bicarbonate_min_is_missing,1.0,0.1405867478581699,0.1405867478581699
+Bicarbonate_mean_is_missing,Bicarbonate_max_is_missing,1.0,0.1405867478581699,0.1405867478581699
+Bicarbonate_mean_is_missing,Bicarbonate_std_is_missing,1.0,0.1405867478581699,0.1405867478581699
+Bicarbonate_mean_is_missing,Bicarbonate_first_is_missing,1.0,0.1405867478581699,0.1405867478581699
+Bicarbonate_mean_is_missing,Bicarbonate_last_is_missing,1.0,0.1405867478581699,0.1405867478581699
+Bicarbonate_mean_is_missing,Bicarbonate_trend_is_missing,1.0,0.1405867478581699,0.1405867478581699
+Calcium_mean_is_missing,Calcium_median_is_missing,1.0,0.12375920539764705,0.12375920539764705
+Calcium_mean_is_missing,Calcium_min_is_missing,1.0,0.12375920539764705,0.12375920539764705
+Calcium_mean_is_missing,Calcium_max_is_missing,1.0,0.12375920539764705,0.12375920539764705
+Calcium_mean_is_missing,Calcium_std_is_missing,1.0,0.12375920539764705,0.12375920539764705
+Calcium_mean_is_missing,Calcium_first_is_missing,1.0,0.12375920539764705,0.12375920539764705
+Calcium_mean_is_missing,Calcium_last_is_missing,1.0,0.12375920539764705,0.12375920539764705
+Calcium_mean_is_missing,Calcium_trend_is_missing,1.0,0.12375920539764705,0.12375920539764705
+Magnesium_mean_is_missing,Magnesium_median_is_missing,1.0,0.12959881689433242,0.12959881689433242
+Magnesium_mean_is_missing,Magnesium_min_is_missing,1.0,0.12959881689433242,0.12959881689433242
+Magnesium_mean_is_missing,Magnesium_max_is_missing,1.0,0.12959881689433242,0.12959881689433242
+Magnesium_mean_is_missing,Magnesium_std_is_missing,1.0,0.12959881689433242,0.12959881689433242
+Magnesium_mean_is_missing,Magnesium_first_is_missing,1.0,0.12959881689433242,0.12959881689433242
+Magnesium_mean_is_missing,Magnesium_last_is_missing,1.0,0.12959881689433242,0.12959881689433242
+Magnesium_mean_is_missing,Magnesium_trend_is_missing,1.0,0.12959881689433242,0.12959881689433242
+Phosphate_mean_is_missing,Phosphate_median_is_missing,1.0,0.1211986994984372,0.1211986994984372
+Phosphate_mean_is_missing,Phosphate_min_is_missing,1.0,0.1211986994984372,0.1211986994984372
+Phosphate_mean_is_missing,Phosphate_max_is_missing,1.0,0.1211986994984372,0.1211986994984372
+Phosphate_mean_is_missing,Phosphate_std_is_missing,1.0,0.1211986994984372,0.1211986994984372
+Phosphate_mean_is_missing,Phosphate_first_is_missing,1.0,0.1211986994984372,0.1211986994984372
+Phosphate_mean_is_missing,Phosphate_last_is_missing,1.0,0.1211986994984372,0.1211986994984372
+Phosphate_mean_is_missing,Phosphate_trend_is_missing,1.0,0.1211986994984372,0.1211986994984372

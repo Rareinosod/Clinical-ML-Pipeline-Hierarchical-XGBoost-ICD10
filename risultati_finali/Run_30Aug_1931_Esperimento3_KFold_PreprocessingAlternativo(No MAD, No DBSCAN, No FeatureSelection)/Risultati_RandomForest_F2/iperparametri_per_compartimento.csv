@@ -1,0 +1,6 @@
+Compartimento,n_estimators,max_depth,min_samples_split,class_weight,F2-Score (macro)_CV_train
+Fold_1,250,26,10,balanced,0.7245000133893523
+Fold_2,150,22,10,balanced,0.7167732931435431
+Fold_3,250,10,6,balanced,0.7351942672978916
+Fold_4,300,15,9,balanced,0.7319188789767348
+Fold_5,200,13,6,balanced,0.7245381488441379

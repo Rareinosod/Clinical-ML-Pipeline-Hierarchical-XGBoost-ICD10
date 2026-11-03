@@ -1,0 +1,6 @@
+Compartimento,max_depth,min_samples_split,min_samples_leaf,criterion,F2-Score (macro)_CV_train
+Fold_1,5,14,7,entropy,0.6809145799775066
+Fold_2,10,17,5,entropy,0.6862320274977396
+Fold_3,3,3,9,entropy,0.6958951778674187
+Fold_4,10,15,1,gini,0.6967322942034279
+Fold_5,10,10,4,gini,0.6944711644215573

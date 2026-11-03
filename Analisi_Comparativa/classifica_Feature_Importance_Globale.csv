@@ -1,0 +1,126 @@
+Feature,Frequenza_nella_Top_15,Rank_Medio
+pain,147,1.1564625850340136
+acuity,144,2.7569444444444446
+age,112,7.053571428571429
+los_hours,109,5.862385321100917
+Calcium_min,101,4.227722772277228
+admission_type_EU OBSERVATION,96,7.354166666666667
+admission_type_OBSERVATION ADMIT,80,7.2
+admission_type_SURGICAL SAME DAY ADMISSION,71,7.084507042253521
+Magnesium_std,68,7.352941176470588
+temperature,68,7.705882352941177
+Platelet Count_trend,53,9.547169811320755
+Calcium_max,49,8.489795918367347
+White Blood Cells_trend,47,9.0
+White Blood Cells_last,42,8.476190476190476
+crp_elevated,38,8.921052631578947
+o2sat,35,10.971428571428572
+pain_is_missing,32,10.625
+Magnesium_min,31,11.064516129032258
+Calcium_std,30,10.8
+heartrate,29,9.827586206896552
+Magnesium_count,26,6.6923076923076925
+Platelet Count_std,26,10.538461538461538
+resprate,26,10.76923076923077
+Mean Corpuscular Volume_trend,25,10.28
+White Blood Cells_std,24,8.583333333333334
+White Blood Cells_max,23,10.478260869565217
+Platelet Count_min,23,11.434782608695652
+Bicarbonate_count,21,9.380952380952381
+heartrate_is_missing,21,11.19047619047619
+White Blood Cells_count,20,7.15
+Hematocrit_max,20,10.75
+Hematocrit_std,18,10.333333333333334
+Calcium_count,16,11.875
+Phosphate_min,16,12.0
+Hemoglobin_count,15,8.866666666666667
+Bicarbonate_min,15,11.4
+Magnesium_last,14,9.928571428571429
+Red Blood Cells_std,14,10.428571428571429
+Platelet Count_last,13,9.615384615384615
+Hematocrit_first,13,9.76923076923077
+admission_type_ELECTIVE,13,10.384615384615385
+White Blood Cells_first,13,11.384615384615385
+Phosphate_count,13,12.0
+Mean Corpuscular Volume_count,13,12.307692307692308
+Hematocrit_min,13,12.461538461538462
+Red Blood Cells_min,12,8.75
+Magnesium_max,12,10.75
+White Blood Cells_min,11,10.181818181818182
+Hemoglobin_min,11,10.363636363636363
+Phosphate_first,11,10.545454545454545
+Phosphate_trend,11,10.818181818181818
+acuity_is_missing,11,11.181818181818182
+admission_type_EW EMER.,11,11.272727272727273
+Calcium_mean,11,11.454545454545455
+Bicarbonate_std,11,12.181818181818182
+gender_M,10,9.9
+Platelet Count_count,10,10.8
+Hematocrit_count,9,11.444444444444445
+Bicarbonate_max,9,12.11111111111111
+Calcium_median,8,6.75
+race_BLACK/AFRICAN AMERICAN,8,10.375
+Calcium_last,8,11.125
+Hemoglobin_std,7,9.285714285714286
+Calcium_first,7,10.0
+Hematocrit_trend,7,12.0
+sbp,7,13.142857142857142
+Magnesium_trend,7,13.142857142857142
+Phosphate_last,7,13.285714285714286
+Bicarbonate_trend,6,8.5
+Bicarbonate_mean,6,9.5
+Platelet Count_first,6,11.166666666666666
+Red Blood Cells_count,6,11.666666666666666
+admission_type_DIRECT OBSERVATION,6,11.833333333333334
+dbp,6,12.0
+Platelet Count_max,6,12.5
+temperature_is_missing,5,8.0
+Red Blood Cells_first,5,9.8
+Magnesium_mean,5,12.8
+Phosphate_mean,5,13.4
+White Blood Cells_mean,4,8.25
+sbp_is_missing,4,8.25
+Platelet Count_median,4,9.0
+Hemoglobin_max,4,9.75
+Hemoglobin_trend,4,10.0
+Hematocrit_median,4,10.0
+Calcium_mean_is_missing,4,10.5
+Calcium_trend,4,11.5
+Hematocrit_mean_is_missing,4,13.5
+Red Blood Cells_median,4,13.75
+Mean Corpuscular Volume_std,3,6.333333333333333
+Bicarbonate_mean_is_missing,3,7.333333333333333
+Hemoglobin_first,3,8.0
+o2sat_is_missing,3,10.333333333333334
+Magnesium_median,3,10.666666666666666
+Bicarbonate_first,3,11.0
+resprate_is_missing,3,12.0
+Bicarbonate_last,3,12.333333333333334
+Red Blood Cells_trend,3,13.666666666666666
+dbp_is_missing,2,5.0
+Bicarbonate_median,2,8.0
+Phosphate_median,2,9.0
+Phosphate_std,2,9.0
+Hematocrit_mean,2,9.5
+Mean Corpuscular Volume_max,2,10.0
+Platelet Count_mean,2,10.5
+White Blood Cells_median,2,11.0
+Mean Corpuscular Volume_first,2,11.5
+Mean Corpuscular Volume_last,2,12.5
+race_WHITE - RUSSIAN,2,13.5
+admission_type_URGENT,2,13.5
+race_WHITE,1,8.0
+Mean Corpuscular Volume_min,1,9.0
+race_SOUTH AMERICAN,1,10.0
+Phosphate_max,1,11.0
+Bicarbonate_count_is_missing,1,12.0
+White Blood Cells_mean_is_missing,1,12.0
+Magnesium_first,1,13.0
+Hematocrit_last,1,14.0
+Red Blood Cells_mean,1,14.0
+Bicarbonate_first_is_missing,1,14.0
+Hemoglobin_mean,1,15.0
+race_BLACK/AFRICAN,1,15.0
+Red Blood Cells_max,1,15.0
+race_HISPANIC/LATINO - PUERTO RICAN,1,15.0
+Red Blood Cells_last,1,15.0

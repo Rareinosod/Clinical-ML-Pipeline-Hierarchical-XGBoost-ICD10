@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - XGBoost ===
+
+Accuracy            : 0.8203
+F2-Score (macro)  : 0.7418  <- metrica primaria
+F1-Score  (macro)   : 0.7447
+Precision (macro)   : 0.7556
+Recall    (macro)   : 0.7412
+F1-Score  (weighted): 0.8129
+Precision (weighted): 0.8106
+Recall    (weighted): 0.8203
+
+--- F2-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9536
+Classe 1: 0.5081
+Classe 2: 0.7639
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94       354
+           1       0.63      0.48      0.55       130
+           2       0.72      0.78      0.75       156
+
+    accuracy                           0.82       640
+   macro avg       0.76      0.74      0.74       640
+weighted avg       0.81      0.82      0.81       640

@@ -1,0 +1,14 @@
+======================================================================
+LOG ESPERIMENTO #10 - 31Aug_1346
+======================================================================
+
+Etichetta setup: Bootstrap_PreprocessingSemplice
+Strategia Validazione: Bootstrap (Train rimpiazzo / Test OOB)
+
+--- STEP OPZIONALI ---
+MAD (outlier univariati): Saltato
+DBSCAN (outlier multivariati): Saltato
+Imputazione NaN: Saltata (NaN lasciati nel dataset)
+Feature Selection (Spearman + Kruskal): Saltata
+
+Grafici diagnostici generati: True

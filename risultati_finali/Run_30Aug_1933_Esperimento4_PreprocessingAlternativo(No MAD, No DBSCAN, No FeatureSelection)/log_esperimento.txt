@@ -1,0 +1,17 @@
+======================================================================
+LOG ESPERIMENTO #4 - 30Aug_1933
+======================================================================
+
+Etichetta setup: PreprocessingAlternativo(No MAD, No DBSCAN, No FeatureSelection)
+Strategia Validazione: Holdout (80/20)
+
+--- STEP OPZIONALI ---
+MAD (outlier univariati): Saltato
+DBSCAN (outlier multivariati): Saltato
+Imputazione NaN: Eseguita
+  Strategia maschera: Opzione 1 (baseline_all)
+  Pool di addestramento (imputer): all
+  Metodo matematico: knn
+Feature Selection (Spearman + Kruskal): Saltata
+
+Grafici diagnostici generati: True

@@ -1,0 +1,26 @@
+=== REPORT PRESTAZIONI - DecisionTree ===
+
+Accuracy            : 0.7527
+F2-Score (macro)  : 0.6697  <- metrica primaria
+F1-Score  (macro)   : 0.6745
+Precision (macro)   : 0.6900
+Recall    (macro)   : 0.6680
+F1-Score  (weighted): 0.7507
+Precision (weighted): 0.7556
+Recall    (weighted): 0.7527
+
+--- F2-SCORE (MACRO) PER CLASSE ---
+Classe 0: 0.9106
+Classe 1: 0.5030
+Classe 2: 0.5954
+
+--- CLASSIFICATION REPORT (Standard sklearn) ---
+              precision    recall  f1-score   support
+
+           0       0.87      0.92      0.90       354
+           1       0.46      0.52      0.49       130
+           2       0.74      0.57      0.64       155
+
+    accuracy                           0.75       639
+   macro avg       0.69      0.67      0.67       639
+weighted avg       0.76      0.75      0.75       639

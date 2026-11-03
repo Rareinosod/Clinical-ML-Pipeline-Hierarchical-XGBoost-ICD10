@@ -1,0 +1,22 @@
+======================================================================
+LOG ESPERIMENTO #1 - 30Aug_1739
+======================================================================
+
+Etichetta setup: KFold_PreprocessingCompleto
+Strategia Validazione: K-Fold (5 splits)
+
+--- STEP OPZIONALI ---
+MAD (outlier univariati): Eseguito
+  Soglia Z-Score MAD: 3.5
+  Min Osservazioni MAD: 10
+DBSCAN (outlier multivariati): Eseguito
+  Parametri: eps=1.5, min_samples=10
+  Feature set usato: ['temperature', 'heartrate', 'resprate', 'o2sat', 'sbp', 'dbp']
+Imputazione NaN: Eseguita
+  Strategia maschera: Opzione 3 (mask_tipici_strict)
+  Pool di addestramento (imputer): ordinary
+  Metodo matematico: knn
+Feature Selection (Spearman + Kruskal): Eseguita
+  Soglia Spearman: 0.9
+
+Grafici diagnostici generati: False

@@ -1,0 +1,6 @@
+Compartimento,n_neighbors,weights,metric,F2-Score (macro)_CV_train
+Fold_1,3,distance,manhattan,0.6045867364815521
+Fold_2,5,distance,euclidean,0.618343089094714
+Fold_3,3,distance,manhattan,0.6338767195368744
+Fold_4,9,distance,euclidean,0.6196715638762805
+Fold_5,5,distance,manhattan,0.6185538439550119

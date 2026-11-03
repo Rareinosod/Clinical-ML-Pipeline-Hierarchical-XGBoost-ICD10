@@ -1,0 +1,2 @@
+Modello,Accuracy,F_Target_macro,F1_macro,Precision_macro,Recall_macro,F1_weighted,Precision_weighted,Recall_weighted
+SVM_Standard,0.8046875,0.7455667093100032,0.7455667093100032,0.7432716298937034,0.7488410835868463,0.8055389409535945,0.8071890926102882,0.8046875

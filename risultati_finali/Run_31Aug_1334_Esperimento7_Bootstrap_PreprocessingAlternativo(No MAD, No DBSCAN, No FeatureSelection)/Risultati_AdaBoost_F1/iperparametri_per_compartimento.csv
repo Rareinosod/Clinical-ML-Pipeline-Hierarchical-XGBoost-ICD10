@@ -1,0 +1,2 @@
+Compartimento,n_estimators,learning_rate,profondita_stump,F1-Score (macro)_CV_train
+Holdout,250,0.5292735375759116,3,0.864957008850654

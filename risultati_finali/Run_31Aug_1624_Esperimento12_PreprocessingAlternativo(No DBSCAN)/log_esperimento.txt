@@ -1,0 +1,20 @@
+======================================================================
+LOG ESPERIMENTO #12 - 31Aug_1624
+======================================================================
+
+Etichetta setup: PreprocessingAlternativo(No DBSCAN)
+Strategia Validazione: Holdout (80/20)
+
+--- STEP OPZIONALI ---
+MAD (outlier univariati): Eseguito
+  Soglia Z-Score MAD: 3.5
+  Min Osservazioni MAD: 10
+DBSCAN (outlier multivariati): Saltato
+Imputazione NaN: Eseguita
+  Strategia maschera: Opzione 2 (mask_tipici)
+  Pool di addestramento (imputer): ordinary
+  Metodo matematico: knn
+Feature Selection (Spearman + Kruskal): Eseguita
+  Soglia Spearman: 0.9
+
+Grafici diagnostici generati: True
