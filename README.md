@@ -207,7 +207,6 @@ progetto.finale/
 ├── risultati_finali/                # Cartelle di Run storiche con report intermedi e split
 ├── validation_strategies/           # Funzioni di split anti-leakage (Holdout, Stratified K-Fold, Bootstrap)
 ├── Launcher_colab.ipynb             # Notebook interattivo per replicazione su Google Colab
-├── Presentazione_ML_ICD10_Gruppo4.pptx # Slide ufficiali della presentazione (11 slide)
 ├── Progetto di Machine Learning_REPORT.docx # Relazione scientifica integrale di progetto
 └── README.md                        # Questa documentazione tecnica
 ```
